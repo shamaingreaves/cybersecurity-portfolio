@@ -1,11 +1,14 @@
 # Cybersecurity Portfolio
 
-This repository serves as a collection of cybersecurity labs and investigations demonstrating skills in network security, malware analysis, and intrusion detection.
+This repository contains hands-on cybersecurity labs and investigations demonstrating practical skills in network security, SIEM monitoring, malware traffic analysis, and intrusion detection.
+
+Each project simulates real-world security scenarios including network reconnaissance, malware communication analysis, intrusion detection alerts, and SIEM-based threat investigation.
 
 ---
 
 # Skills Demonstrated
 
+• SIEM Monitoring & Log Analysis  
 • Network Security  
 • Intrusion Detection Systems (IDS)  
 • Malware Traffic Analysis  
@@ -31,6 +34,24 @@ Skills demonstrated:
 Repository:
 
 https://github.com/shamaingreaves/network-ids-lab-suricata-detection
+
+---
+
+## SIEM Log Analysis – SSH Attack Detection
+
+Simulated an SSH brute-force login attack against an Ubuntu server and used Splunk SIEM to detect and analyze failed authentication attempts through centralized log monitoring.
+
+Skills demonstrated:
+
+SIEM log analysis  
+Security monitoring  
+Threat detection  
+Linux authentication log investigation  
+Splunk Search Processing Language (SPL)
+
+Repository:
+
+https://github.com/shamaingreaves/splunk-siem-ssh-attack-detection
 
 ---
 
@@ -69,11 +90,12 @@ https://github.com/shamaingreaves/pcap-malware-investigation
 
 # Tools Used
 
+• Splunk Enterprise (SIEM)  
 • Wireshark  
 • Kali Linux  
 • Ubuntu Server  
 • Suricata IDS  
-• Nmap  
+• Nmap   
 
 ---
 
