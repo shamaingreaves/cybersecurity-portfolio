@@ -30,7 +30,7 @@ Skills demonstrated:
 
 Repository:
 
-https://github.com/shamaingreaves/suricata-ids-lab
+https://github.com/shamaingreaves/network-ids-lab-suricata-detection
 
 ---
 
@@ -46,7 +46,7 @@ Skills demonstrated:
 
 Repository:
 
-https://github.com/shamaingreaves/network-attack-simulation
+https://github.com/shamaingreaves/soc-analyst-home-lab
 
 ---
 
@@ -63,7 +63,7 @@ Skills demonstrated:
 
 Repository:
 
-https://github.com/shamaingreaves/malware-traffic-analysis
+https://github.com/shamaingreaves/pcap-malware-investigation
 
 ---
 
